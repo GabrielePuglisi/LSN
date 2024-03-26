@@ -1,0 +1,21 @@
+1
+1
+1.1
+108
+0.8
+2.5
+0.2
+20
+2000
+
+
+  ReadInput >> iNVET; 0=MD(NVE) 1=MC(NVT)
+  ReadInput >> restart;
+  ReadInput >> temp; 
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta; (0.2 per 50% Metropolis, 0.0005 MD)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  
