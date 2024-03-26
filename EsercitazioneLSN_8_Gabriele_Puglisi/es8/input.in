@@ -1,0 +1,21 @@
+1.
+1.
+1.
+7.
+0.1
+100
+10000
+100
+25
+
+
+  
+  ReadInput >> tempINI;
+  ReadInput >> sigmaINI;
+  ReadInput >> muINI;
+  ReadInput >> delta;
+  ReadInput >> deltaSA;
+  ReadInput >> nblk;
+  ReadInput >> nstepINT;
+  ReadInput >> nstepSA;
+  ReadInput >> nstepT;
